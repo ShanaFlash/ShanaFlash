@@ -4,7 +4,7 @@ I'm a passionate software developer and aspiring [Your Goal — e.g., AI Enginee
 
 ## 🚀 About Me
 
-- 🎓 CS student @ [Your School] | Class of [Your Grad Year]
+- 🎓 CS student @ [Georgia Instutite of Technology] | Class of [2025]
 - 💼 Working on smartKey self check-in system for hotels
 - 🌱 Currently learning: Android, AWS, and full-stack dev
 - 🔍 Interested in: AI, hotel tech, and personal growth systems
@@ -27,9 +27,9 @@ I'm a passionate software developer and aspiring [Your Goal — e.g., AI Enginee
 
 ## 📫 Contact Me
 
-- Email: [your email]
-- LinkedIn: [your LinkedIn]
-- Portfolio: [your portfolio link] (optional)
+- Email: [shanaw17flash@gmail.com]
+- LinkedIn: [[(https://www.linkedin.com/in/shanawen17/)]
+
 
 ---
 
