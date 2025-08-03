@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]!
+# Hi there 👋 I'm [Shana Wen]!
 
 I'm a passionate software developer and aspiring [Your Goal — e.g., AI Engineer, Product Leader]. I love building impactful products that blend technology and creativity.
 
